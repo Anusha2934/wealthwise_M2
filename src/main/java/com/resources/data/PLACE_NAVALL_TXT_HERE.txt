@@ -1,0 +1,8 @@
+Download NAVAll.txt from AMFI and place it in this folder:
+
+URL: https://www.amfiindia.com/spages/NAVAll.txt
+
+The file should be named exactly: NAVAll.txt
+
+Then update application.properties:
+  app.navall.file.path=src/main/resources/data/NAVAll.txt
